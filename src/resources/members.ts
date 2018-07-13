@@ -9,8 +9,8 @@ export interface Member {
 const sakamotop =
   {
     name: 'さかもとP',
-    charge: 'プロデューサー',
-    profile: '準備中',
+    charge: 'なばかりプロデューサー兼テイジゴビールタイマー',
+    profile: 'ビール大好き！！！！！！',
   };
 
 const noBeerK =
