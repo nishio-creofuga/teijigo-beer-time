@@ -31,6 +31,13 @@ const yukizo =
   profile: 'リハビリ中で戦力になれないので、えらそーにしてます。',
 }
 
+const nishio =
+{
+  name: '社長',
+  charge: `Protooler`,
+  profile: 'コネをフル活用して良い作品作ります',
+}
+
 const mako =
 {
   name: '管理人MAKO',
@@ -46,6 +53,7 @@ export const members: Member[] = [
   sakamotop,
   noBeerK,
   yukizo,
+  nishio,
   mako,
 ];
 
